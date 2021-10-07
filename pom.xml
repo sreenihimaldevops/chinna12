@@ -17,11 +17,11 @@
   <distributionManagement>
                 <repository>
 			<id>Package</id>
-			<url>http://18.118.206.32:8081/repository/package/</url>
+			<url>http://18.189.157.142:8081/repository/package/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
-			<url>http://18.118.206.32:8081/repository/snapshots/</url>
+			<url>http://18.189.157.142:8081/repository/snapshot/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
