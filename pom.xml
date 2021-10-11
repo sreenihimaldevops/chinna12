@@ -17,7 +17,7 @@
   <distributionManagement>
                 <repository>
 			<id>Package</id>
-			<url>http://18.117.148.155:8081/repository/pacakage/</url>
+			<url>http://18.117.148.155:8081/repository/package/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
