@@ -16,7 +16,7 @@
   </dependencies>
   <distributionManagement>
                 <repository>
-			<id>Package</id>
+			<id>package</id>
 			<url>http://18.117.148.155:8081/repository/package/</url>
 		</repository>
 		<snapshotRepository>
