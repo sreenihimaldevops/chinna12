@@ -19,9 +19,9 @@
 			<id>package</id>
 			<url>http://18.117.148.155:8081/repository/package/</url>
 		</repository>
-		<snapshotRepository>
+		<Repository>
 			<id>snapshots</id>
 			<url>http://18.117.148.155:8081/repository/snapshots/</url>
-		</snapshotRepository>		
+		</Repository>		
   </distributionManagement>
 </project>
